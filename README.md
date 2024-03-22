@@ -1,2 +1,3 @@
-# Training_Py
+# Training Python
+
 my study and training repository in python
